@@ -8,7 +8,7 @@ Project work at the [University of Applied Sciences Karlsruhe](https://www.h-ka.
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;"/>
+        width: 80%;"/>
 
 To run the app as a [docker](https://www.docker.com/) container:
 
