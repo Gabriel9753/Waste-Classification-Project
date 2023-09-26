@@ -1,0 +1,31 @@
+Model: dinov2_vits14
+Timestamp: 2023-09-25_17-27-57
+Batch Size: 128
+Learning Rate: 2e-06
+Number of Epochs: 20
+Linear Layer: [384, 64, 5]
+Dropout: 0.2
+Train length: 18108
+Validation length: 4656
+
+Train History:
+Epoch 1: Acc 91.000 | Loss 0.283
+Epoch 2: Acc 94.000 | Loss 0.174
+Epoch 3: Acc 95.000 | Loss 0.137
+Epoch 4: Acc 96.000 | Loss 0.115
+Epoch 5: Acc 96.000 | Loss 0.095
+Epoch 6: Acc 96.000 | Loss 0.088
+Epoch 7: Acc 97.000 | Loss 0.087
+Epoch 8: Acc 97.000 | Loss 0.080
+Epoch 9: Acc 97.000 | Loss 0.077
+Epoch 10: Acc 97.000 | Loss 0.076
+Epoch 11: Acc 97.000 | Loss 0.075
+Epoch 12: Acc 97.000 | Loss 0.069
+Epoch 13: Acc 97.000 | Loss 0.081
+Epoch 14: Acc 97.000 | Loss 0.068
+Epoch 15: Acc 98.000 | Loss 0.059
+Epoch 16: Acc 97.000 | Loss 0.063
+Epoch 17: Acc 98.000 | Loss 0.054
+Epoch 18: Acc 97.000 | Loss 0.058
+Epoch 19: Acc 97.000 | Loss 0.067
+Epoch 20: Acc 98.000 | Loss 0.060
